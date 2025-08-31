@@ -1,0 +1,9 @@
+weaviate-client
+openai
+python-dotenv
+langchain
+langchain-community
+tika
+requests
+flask
+flask-cors
